@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "phansys/getid3": "2.1.*@dev"
+        "phansys/getid3": "*@dev"
     },
     "autoload": {
         "psr-4": {
