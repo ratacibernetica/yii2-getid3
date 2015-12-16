@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "phansys/getid3": "dev-master"
+        "phansys/getid3": "*"
     },
     "autoload": {
         "psr-4": {
